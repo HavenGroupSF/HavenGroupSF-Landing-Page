@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Haven Group SF</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      color: #1d3557;
+      margin-bottom: 1rem;
+    }
+    .link-list {
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    .link-list a {
+      display: block;
+      background-color: #1d3557;
+      color: white;
+      text-decoration: none;
+      padding: 1rem;
+      border-radius: 8px;
+      margin: 1rem 0;
+      transition: background-color 0.3s;
+    }
+    .link-list a:hover {
+      background-color: #457b9d;
+    }
+  </style>
+</head>
+<body>
+  <h1>Haven Group SF</h1>
+  <p>Explore who we are, what we do, and what others say about us.</p>
+  <div class="link-list">
+    <a href="https://havengroupsf.com/" target="_blank">🌐 Haven Group Website</a>
+    <a href="https://www.instagram.com/havengroupsf/?hl=en" target="_blank">📸 Instagram</a>
+    <a href="https://havengroupsf.com/meet-our-team/" target="_blank">👥 Meet the Team</a>
+    <a href="https://www.google.com/search?q=haven+group+sf&lrd=0x808581a97357c9bd:0xfe99647de00298bc,1,,,,"
+       target="_blank">⭐ Google Testimonials</a>
+  </div>
+</body>
+</html>
